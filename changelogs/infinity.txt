@@ -1,6 +1,5 @@
 Changelog for ProjectInfinityX Version 3.7 (QPR2) releasing since 18/02/2026
 
-
 - Fix notifications/media player not appearing on lockscreen with custom clock styles
 - Add feature to adjust height of  lockscreen clock styles
 - Allow to change color of lockscreen clock styles
