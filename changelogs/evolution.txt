@@ -1,1 +1,12 @@
-test OTA
+EvoutionX 11.6.1 | Android 16 QPR 2 | Unofficial OTA
+
+======== March 1, 2026 Chanelogs ========
+
+Fixes added to 3 finger swipe actions from crDroid
+Daily and weekly data usage cycles added
+New charging effects added from Lunaris
+Now playing feature now hidden on keyguard
+Improve flashlight strength control UX
+added clock style fonts
+added toggle for new searchbar on homescreen dock
+added Lunaris Dolby
