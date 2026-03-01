@@ -1,13 +1,24 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "15.1"
+      "maintainer": "Kolassrexon",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "tapas/topaz",
+      "filename": "EvolutionX-16.0-20260301-tapas-11.6.1-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/your_unoffical_sourceforge_project/files/tapas/16/EvolutionX-16.0-20260301-tapas-11.6.1-Unofficial.zip/download",
+      "timestamp": 1772367188,
+      "md5": "462cc2dc22ef683210dbf4cc2f569846",
+      "sha256": "4495c69325c37dcaee5759d682f37d2470bbc15bcafbdd2b115b884b9f458cfe",
+      "size": 2862840724,
+      "version": "11.6.1",
+      "buildtype": "userdebug",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "initial_installation_images": [],
+      "extra_images": []
     }
   ]
 }
