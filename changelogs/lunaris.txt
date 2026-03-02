@@ -3,6 +3,7 @@ LunarisAOSP 3.8 | Android 16 QPR 2 | Unofficial OTA
 ======== March 1, 2026 Chanelogs ========
 
 - Bring back about phone design
+- Redesign ongoing music chip like oneui music chip
 - Use accent color for privacy indicators
 - Add support for daily and weekly data usage cycles
 - Improve l3 recent overview animation
@@ -39,5 +40,4 @@ LunarisAOSP 3.8 | Android 16 QPR 2 | Unofficial OTA
 - Separate clock face weather switch
 - Notch ring charging indicator support
 - Add notch ring color mode
-- Redesign ongoing music chip like oneui music chip
 
