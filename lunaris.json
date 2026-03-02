@@ -3,27 +3,26 @@
     {
       "maintainer": "Kolassrexon",
       "oem": "Xiaomi",
-      "device": "Redmi Note 12 4G",
-      "filename": "Lunaris-AOSP-tapas-Community-3.7-GMS-2026022414.zip",
-      "download": "https://sourceforge.net/projects/rexonsarchive/files/Lunaris-AOSP-tapas-Community-3.7-GMS-2026022414.zip/download",
-      "timestamp": 1779632770,
-      "md5": "f3c7a6321b6ff03d5cc1ee56ba742ffd",
-      "sha256": "c5893f623f13efd76703f963f38938d7d5dab644d2c1e44a9d3b8ea1aeb0c7a4",
-      "size": 2671935875,
-      "version": "3.7",
+      "device": "Redmi",
+      "filename": "Lunaris-AOSP-tapas-Community-3.8-GMS-2026030212.zip",
+      "download": "https://sourceforge.net/projects/rexonsarchive/files/LunarisAOSP/Lunaris-AOSP-tapas-Community-3.8-GMS-2026030212.zip/download",
+      "timestamp": 1772541578,
+      "md5": "cfdcc012273b93a3b0f37c91bd5fa447",
+      "sha256": "526944fc2835c4b8306ab17a7088a33aae606bf7319c0ac51e499817f4e6f003",
+      "size": 2598347495,
+      "version": "3.8",
       "buildtype": "user",
       "forum": "",
       "gapps": "pico",
-      "firmware": "2.0.11",
+      "firmware": "",
       "modem": "",
       "bootloader": "",
       "recovery": "",
       "paypal": "",
-      "telegram": "",
+      "telegram": "@KolassrexonJ",
       "dt": "",
       "common-dt": "",
       "kernel": ""
     }
   ]
 }
-
