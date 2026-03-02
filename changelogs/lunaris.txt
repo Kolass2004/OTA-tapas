@@ -1,3 +1,43 @@
 LunarisAOSP 3.8 | Android 16 QPR 2 | Unofficial OTA
 
 ======== March 1, 2026 Chanelogs ========
+
+- Bring back about phone design
+- Use accent color for privacy indicators
+- Add support for daily and weekly data usage cycles
+- Improve l3 recent overview animation
+- Redesign recent overview
+- Improve scrolling cache
+- Show SSID as label when tile data usage on
+- Fix clock chip colors
+- Switch to mirror blur effect
+- Add support for lawnicon in icon pack
+- Switch to pixel icon as default themed icon
+- Reduce default qs blur to aosp default
+- Increase max blur level to 100px from 70px
+- Improve Auth Ripple Dwell Ripple
+- QS footer icon visibilities (show or hide)
+- Drop multi color launcher settings icons
+- Move all L3 icon shape to wallpaper & style
+- Add gestural navbar hint burn in protection
+- Add package name to L3 info bottom sheet version
+- Fix Battery Widget stuck (loading) issue
+- Use darker app drawer bg wen blur off
+- Fix settings crash after resetting to default font
+- Show statusbar logo and statusbar chip in settings like udfps/icon packs
+- Add support for hotspot timeout
+- Change monet settings and update system color hooks
+- Use gsans flex as default font
+- Introduce cutout progress ring (notch ring)
+- Add clock faces and widgets
+- Add Gradients customization
+- Disable l3 wallpaper zoom by default
+- Convert fontpicker, clock chip, statusbar logo to preference dialog
+- Add support custom clock color
+- Use stroke-only widget backgrounds for aod (like nos)
+- Apply clock opacity at 70% during AOD/dozing
+- Separate clock face weather switch
+- Notch ring charging indicator support
+- Add notch ring color mode
+- Redesign ongoing music chip like oneui music chip
+
