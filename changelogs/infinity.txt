@@ -1,25 +1,34 @@
-Changelog for ProjectInfinityX Version 3.7 (QPR2) releasing since 18/02/2026
+Changelog for ProjectInfinityX Version 3.8 (QPR2) releasing since 04/03/2026
 
-- Fix notifications/media player not appearing on lockscreen with custom clock styles
-- Add feature to adjust height of  lockscreen clock styles
-- Allow to change color of lockscreen clock styles
-- Allow to adjust transparency of lockscreen clock styles
-- Fix high ram usage while using custom lockscreen clock styles
-- Add toggle for translucent notifications on lockscreen/QS
-- Add scroll optimizer implementation
-- Fix security & privacy settings preferences crash
-- Hide navigation bar on lockscreen/AOD/doze/bouncer
-- Allow disabling private DNS for VPN
-- Fix a rare black screen freeze issue after unlocking device 
-- Fix 1st app row clipping when app drawer bottom sheet disabled
-- Make circle battery icons appear red on lower battery level
-- Fix right statusbar logo appearing before battery icon
-- Add charging bolt indicator for text-only battery style
-- Improve statusbar burn-in protection
-- Allow to use lockscreen carrier name while custom lockscreen clock styles in use
-- Fix invert navbar layout on taskbar
-- Use seekbar to allow setting arbitrary animation values 
-- Reset mobile data always on developer setting correctly
-- Allow to enable hotspot as a hidden network ssid
-- Fix long pressing private dns tile pointing nowhere
-- Tonnes of improvements for QuickTap feature 
+- Merge March 2026 Security Patch 
+- Resolve down "copy crash log url" and shift to paste.projectinfinity-x.com
+- Add Pixel Magic Portrait Wallpapers support (Gapps build only)
+- Add emoji wallpaper workshop (Gapps build only)
+- Allow re-enabling the pitch black qs tiles color with a toggle as seen in qpr1
+- Fix specific screenrecord/dialer notification flicker (color change) issue when transparent notifications enabled (author: neobuddy89)
+- Bring back QS Clock headers from v3.5 
+- Fix network reset settings missing reset button (author: Alex Cruz)
+- Fix monet luminance and chroma factor sliders
+- Add punch-hole cutout progress feature (author: hxreborn & Ghosuto)
+- Add lockscreen charging visual effects (author: Ghosuto)
+- Perform text scrolling on toasts for exceeding characters (author: minaripenguin)
+- Move icon shapes to wallpaper and styles and add 9 more icon shapes / Make icon shapes work oj app drawer (author: althavfvly, neobuddy89)
+- Add feature to set custom image on AOD (author: minaripenguin)
+- Add QS Tiles / Brightness slider / Volume slider gradient color customisation (author: neobuddy89)
+- Restore red character color of oneplus style lockscreen clock
+- Remove crooked languages display in the language section which caused even a bootloop 
+- Fine tune extreme close network traffic indicator right padding
+- Switch to mirror blur (author: rmp22)
+- Add support for daily and weekly data usage cycles (author: idoybh)
+- Fabricate new preview UI for clock chips and status bar logos (author: neobuddy89)
+- Add 130 more udfps icons (author: neikos4962)
+- Improve QS Panel spacing
+- Add QS footer settings customisation (author: neobuddy89)
+- Add monet settings preview illustration (author: minaripenguin)
+- Add missing icon for adaptive connectivity preference (author: kleidione)
+- Improve udfps/fp enroll introduction/finish layout (author: adithya2306)
+- Fix pitch black notification scrim color on stock qs panel colors style in dark mode
+- Add a slither game in Updater 
+- Patch mount on a locked device detection (author: SamarV-121)
+- Fix digital wellbeing / GoogleTTS crash on first boot
+ 
