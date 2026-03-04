@@ -1,7 +1,8 @@
-EvoutionX 11.6.1 | Android 16 QPR 2 | Unofficial OTA
+EvoutionX 11.6.2 | Android 16 QPR 2 | Unofficial OTA
 
-======== March 1, 2026 Chanelogs ========
+======== March 4, 2026 Chanelogs ========
 
+Merged March Security Patch
 Fixes added to 3 finger swipe actions from crDroid
 Daily and weekly data usage cycles added
 New charging effects added from Lunaris
