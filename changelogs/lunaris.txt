@@ -1,6 +1,14 @@
 LunarisAOSP 3.8 | Android 16 QPR 2 | Unofficial OTA
 
-======== March 1, 2026 Chanelogs ========
+
+======== March 5, 2026 Changelogs ========
+
+- Add new island like popup dialog for music chip
+- Merge r4 march patch security patch
+- Fix torch and wifi lockscreen widget issue
+
+
+======== March 1, 2026 Changelogs ========
 
 - Bring back about phone design
 - Redesign ongoing music chip like oneui music chip
