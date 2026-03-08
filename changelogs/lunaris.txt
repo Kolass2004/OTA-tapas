@@ -1,6 +1,26 @@
 LunarisAOSP 3.8 | Android 16 QPR 2 | Unofficial OTA
 
 
+======== March 8, 2026 Changelogs ========
+
+- Allow choose custom color/gradient for clock chip
+- Media chip popup follow qs seekbar style
+- Optimize ongoing chip
+- Enforce white color for custom clocks in aod
+- Allow disable qsb extra height in workspace
+- Add music chip bg color options
+- Remove gradient customization (feels heavy)
+- Some visual improvements in music chip
+- Fix recent card instant/fast snap issue
+- Fix default (redesigned) volume panel ringer switches not working in landscape mode
+- Drop recent card scale animation
+- Resolve Launcher3 crash caused by certain icon packs.
+- Add 2 new clock faces from iconify
+- Vol. percentage in redesigned style
+- Add mask statusbar clock style for custom gradient chip
+
+
+
 ======== March 5, 2026 Changelogs ========
 
 - Add new island like popup dialog for music chip
