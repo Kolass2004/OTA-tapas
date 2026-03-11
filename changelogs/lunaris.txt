@@ -1,5 +1,16 @@
 LunarisAOSP 3.8 | Android 16 QPR 2 | Unofficial OTA
 
+======== March 11, 2026 Changelogs ========
+
+- Switch back to clamp blur
+- Minor music popup media player ui changes
+- Drop some usless system boost changes
+• Use Stock backend_conf (fixes audio imbalance)
+• Move audio configs to prebuilt
+• Disable netlink on thermal hal
+• Build DSPVolumeSynchronizer
+• 32-bit apps are no longer supported
+
 
 ======== March 8, 2026 Changelogs ========
 
