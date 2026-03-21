@@ -2,7 +2,7 @@ LunarisAOSP 3.8 | Android 16 QPR 2 | Unofficial OTA
 
 
 
-======== March 14, 2026 Changelogs ========
+======== March 21, 2026 Changelogs ========
 
 - MI Camera App added
 
