@@ -1,6 +1,38 @@
 LunarisAOSP 3.8 | Android 16 QPR 2 | Unofficial OTA
 
 
+======== March 23, 2026 Changelogs ========
+
+- Add basic sleep mode
+- Allow switch to legacy statusbar icon order
+- Implement proper UI for per-app spoofing
+- Add battery indicator in notch ring
+- Allow changes launcher hotseat QSB style
+- Hide ongoing action chip while QS panel is expanded
+- Fix hide developer mode search list crash
+- Fix backup settings crash
+- Add appdrawer searchbar location
+- Dark text on appdrawer toggle
+- Introduce appdrawer styles
+- Add option to clear home screen in settings
+- Fix footer settings long press crash
+- Remove some duplicate settings entries
+- Music progress ring in notch ring
+- Add idle manager (like greenify)
+- Allow set custom color in app drawer bg
+- Allow change custom clock size
+- Improve legacy recent action style padding
+- Update smartspace to CP1A.260305.018
+- Add method to block PairIP license check activity
+- Abandon generated certs to fix TEE check
+- Add torch toggle for double tap power gesture
+- Implement new dynamic VoLTE/VoWiFi status bar icons
+- Implement new dynamic VoNR status bar icons
+- Allow disable flash SMS messages
+
+
+
+
 
 ======== March 21, 2026 Changelogs ========
 
