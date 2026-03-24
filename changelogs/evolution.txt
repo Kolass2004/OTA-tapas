@@ -1,5 +1,13 @@
 EvoutionX 11.6.2 | Android 16 QPR 2 | Unofficial OTA
 
+======== March 24, 2026 Chanelogs ========
+- Custom Clock styles added 
+- Block pairIP licence verification added
+- gradients customization added
+- App hide list should also be improved along with dev options app hiding.
+- New GKI Kernel Added [Ecstacy 1.0+]
+
+
 ======== March 4, 2026 Chanelogs ========
 
 Merged March Security Patch
