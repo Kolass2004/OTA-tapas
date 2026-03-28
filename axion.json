@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1774777113,
-            "filename": "axion-2.5-BETA-20260327-UNOFFICIAL-GMS-tapas.zip",
-            "id": "6d1915899f7b811a3c8444582b12inb9",
+            "datetime": 1774718912,
+            "filename": "axion-2.5-BETA-20260328-UNOFFICIAL-GMS-tapas.zip",
+            "id": "3567d5a953da184714b9df5d912fa29f",
             "romtype": "UNOFFICIAL",
-            "size": 2825254617,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/2.5/axion-2.5-BETA-20260327-UNOFFICIAL-GMS-tapas.zip",
+            "size": 2856199778,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/2.5/axion-2.5-BETA-20260328-UNOFFICIAL-GMS-tapas.zip",
             "version": "2.5"
         }
     ]
