@@ -1,4 +1,50 @@
-LunarisAOSP 3.8 | Android 16 QPR 2 | Unofficial OTA
+LunarisAOSP 3.9 | Android 16 QPR 2 | Unofficial OTA
+
+
+======== April 07, 2026 Changelogs ========
+
+- Merged April Security Patch
+- Bring back gradient style**
+- Drop useless timeout changes from idlemanager
+- Use default privacy chip background color for location also
+- Disable smartspace when using custom clock
+- Add classic a11 like QS panel style**
+- Update flex font
+- add 21 new clock style
+- Add custom clock aod transition animation
+- Add Glow effect in notch ring
+- Add ongoing chip opacity control
+- New custom clock selection UI
+- Merge new lineage changes
+- Improve freeform app scrolling
+- Add clear history in idlemanager dashboard
+- Improve idlemanager device idle state detection
+- Fix ongoing chip media art visibility issue for spotify
+- Add lockscreen now playing popup dialog
+- Some fixes in color customisation
+- Enable bubble notification app
+- Improve ongoing chip miniplayer popup animation
+- Allow disable qs media player
+- Introduce navbar pill auto-hide (for launcher3 only)
+- Fix AiMode Button in pixel style searchbar
+- Turn app drawer sort feature into a preference
+- Change light mode notification shade color when blur off
+- Improve omnijaws front end
+- Allow change qs notification icon style (legacy style)
+- Allow use themed icon in qs notification
+- Add alternate shade option for notification bg like qs tile
+- Switch to dynamic bar (drop ongoing chip)
+- Redesign dynamic bar media pill style similer to ongoing chip style (OneUI)
+- Dynamic bar extended media player follow qs media seekbar style
+- Separate switch for dynamic bar actual charging info on lock screen
+- Improve Dynamic Bar lockscreen battery icon with rounded corners and proper nub
+- Add more classic qs style icon shapes
+- Fix qs tile font variable
+- Improve notification font style
+- Improve Dynamic Bar padding and size (so it doesn’t cover half of the status bar)
+- Fix left statusbar logo touching statusbar
+- Add Lockscreen oos clock style
+
 
 
 ======== March 23, 2026 Changelogs ========
