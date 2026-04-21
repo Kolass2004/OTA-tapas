@@ -1,5 +1,6 @@
-Changelogs 07/04/2026
+Changelogs 21/04/2026
 
+- April Security Patch Merged
 - Add statusbar/lockscreen dynamic bar implementation (author: rmp22)
 - Add App drawer customizations and tunings (author: shutter-cat, pbzinwindows, ChrisCatto)
 - Add Toggle to launch notification apps in bubble or floating screen (author: shutter-cat)
