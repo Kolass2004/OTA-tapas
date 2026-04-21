@@ -1,6 +1,60 @@
 LunarisAOSP 3.9 | Android 16 QPR 2 | Unofficial OTA
 
 
+
+======== April 21, 2026 Changelogs ========
+
+- Fixed some dynamic bar issues
+- Add essential notifications lite
+- Make keyguard dynamic bar music pill optional
+- Allow users to switch to legacy (filled) style status bar icons
+- Some improvements in CachedAppOptimizer
+- Improve refresh rate controller
+- Introduce Depth Wallpaper feature
+- Add edge light glow effect
+- Further optimize rendering for wallpaper effects
+- Bring back scroll optimizer
+- Fix Switch Tensor feature handling
+- Improve screen on animation in dark mode
+- Extending screen recorder options
+- Fixing jank by media player layer type
+- Allow disable sidebar when gamespace on
+- Add brightness slider in game space panel
+- Few launcher related fixes
+- Fix rounded corner in wallpaper picker preview
+- Fix statsD unncessary cpu usage
+- Tune biometric dialog UI
+- Merge lineage changes
+- More sidebar customization
+- Drop broken nothing charging animation
+- Remove compact chip toggle for dynamic bar
+- auto toggle wallpaper overlay on quickswitch
+- Reducing qs compose rendering overhead
+- Fix broken mobile network reset button
+- Fix video wallpaper doesnt load after restart
+- Fix custom udfps icons doesnt load after restart
+- Improve dynamic bar expanded music dialog ui
+- User selected statusbar icon support
+- Match L3 pixel searchbar color with stock pixel
+- Fix download/upload dynamic bar progress issue
+- Separate active call card from dynamic island notification
+- Improve custom font and stock font handling
+- Fix font weight issue in some places
+- Make music chip bg bit more vibrant
+- Cleanup and fix potential PixelPropsUtils issues
+- Add system emoji styles
+- ignore factory reset protection (Disable frp)
+- Drop animation override flag and make it override toggle
+- Use MD3 variable font family in Launcher3 QuickSpace
+- Prevent the custom clock font from resetting after long idle
+- Enable back gesture background by default
+- Add new charging themes
+- Add battery themes
+- Match circle battery style colors with landscape icon
+- Switch to sun os RefreshRateManager
+- Add oos like clock quickspace style
+
+
 ======== April 07, 2026 Changelogs ========
 
 - Merged April Security Patch
