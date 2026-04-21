@@ -1,4 +1,13 @@
-EvoutionX 11.6.2 | Android 16 QPR 2 | Unofficial OTA
+EvoutionX 11.6.2 | Android 16 QPR 2 
+
+======== April 21, 2026 Chanelogs ========
+- merged April Security patch
+- Dynamic bar added
+- added Axion theme store
+- fixed some systemUI crashes
+- added new about phone UI
+- more clock styles added
+
 
 ======== March 24, 2026 Chanelogs ========
 - Custom Clock styles added 
