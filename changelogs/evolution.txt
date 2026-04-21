@@ -1,6 +1,8 @@
 EvoutionX 11.6.2 | Android 16 QPR 2 
 
+
 ======== April 21, 2026 Chanelogs ========
+
 - merged April Security patch
 - Dynamic bar added
 - added Axion theme store
@@ -9,12 +11,19 @@ EvoutionX 11.6.2 | Android 16 QPR 2
 - more clock styles added
 
 
+
+
+
 ======== March 24, 2026 Chanelogs ========
+
 - Custom Clock styles added 
 - Block pairIP licence verification added
 - gradients customization added
 - App hide list should also be improved along with dev options app hiding.
 - New GKI Kernel Added [Ecstacy 1.0+]
+
+
+
 
 
 ======== March 4, 2026 Chanelogs ========
