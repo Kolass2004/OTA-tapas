@@ -1,4 +1,150 @@
-LunarisAOSP 3.9 | Android 16 QPR 2 | Unofficial OTA
+LunarisAOSP 3.10 | Android 16 QPR 2 | Unofficial OTA
+
+
+======== May 09, 2026 Changelogs ========
+
+
+> Daily Update:
+- Redesign dynamic bar lockscreen extended media panel
+
+> Daily Update:
+- Introduce qs panel media&slider widget
+
+> Daily Update:
+- Remove some changes like notification, cust from dynamic bar
+
+> Daily Update:
+- Reduce app-to-home animation duration
+
+> Daily Update:
+- Allow change qs media player position
+
+> Daily Update:
+- Align dynamic bar media panel seekbar timestamps inline with progress bar
+
+> Daily Update:
+- Allow toggling lockscreen wallpaper tint visibility
+
+> Daily Update:
+- Adding sandbox support
+
+> Daily Update:
+- Refine lockscreen charging info logic
+
+> Daily Update:
+- Reducing redundant applyBlur calls
+
+> Daily Update:
+- Tune some clock layout
+
+> Daily Update:
+- Add launcher swipe up gesture for freeform mode
+
+> Daily Update:
+- Fix pulse showing above udfps icon
+
+> Daily Update:
+- Change smartpixel implementation
+
+> Daily Update:
+- Add swift and fb emoji style
+
+> Daily Update:
+- Add toggle for gamespace auto detect apps
+
+> Daily Update:
+- Switch to Axion GameSpace UI
+
+> Daily Update:
+- Increase max blur limit
+
+> Daily Update:
+- Gate display engine category on persist prop
+
+> Daily Update:
+- Fix Depth wallpaper showing above extended dynamic bar panel
+
+> Daily Update:
+- Improve extended media blur visual
+
+> Daily Update:
+- Add animation styles for QS tile toggle
+
+> Daily Update:
+- Fix accent transperent statusbar chip
+
+> Daily Update:
+- Use accent ripple for lockscreen widget click action
+
+> Daily Update:
+- optimize resolver lookup tile bg Custom Color Scheme
+
+> Daily Update:
+- Send load-up hint on finger down for fingerprint unlock
+
+> Daily Update:
+- Compose volume follow volume dialog haptic switch
+
+> Daily Update:
+- Drop MSDL feedback from fingerprint auth
+
+> Daily Update:
+- Add brief aod timer
+
+> Daily Update:
+- Lockscreen tap wake/sleep animation
+
+> Daily Update:
+- Add Neumatic clock style
+
+> Daily Update:
+- Fix custom clock scale clipping
+
+> Daily Update:
+- Add 13 more random clock styles
+
+> Daily Update:
+PUSHED ✅✅
+
+> Daily Update:
+- Switch to tricky store implementation
+
+> Daily Update:
+- Fix ios8 clock size
+
+> Daily Update:
+- Depth clock unlock delay
+
+> Daily Update:
+- Fix screen flicker when exiting freeform mode
+
+> Daily Update:
+- Fix fp icon now showing in aod
+
+> Daily Update:
+- Improve keyguard charging info
+
+> Daily Update:
+- Dynamic bar optimization
+
+> Daily Update:
+- Sandbox optimization
+
+> Daily Update:
+- Boot process high cpu usage, reduce load after reboot and slow load
+
+> Daily Update:
+- Optimizing wallpaper zoom
+
+> Daily Update:
+- Drop broken screen-off aod animation
+
+> Daily Update:
+- Add back hide app from launcher
+
+> Daily Update:
+- Add 2 clocks with a colon( : )
+
 
 
 
