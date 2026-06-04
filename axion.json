@@ -1,13 +1,14 @@
 {
     "response": [
         {
-            "datetime": 1779212052,
-            "filename": "axion-2.6-QUASIS-20260519-UNOFFICIAL-CORE-tapas.zip",
-            "id": "b3070e8593a4931bd602d93c214b042c",
+            "datetime": 1780548686,
+            "filename": "axion-2.7-PROXIMA_BETA-20260604-UNOFFICIAL-CORE-tapas.zip",
+            "id": "22d4437f55f6ea17c6530c4bd2608b83",
             "romtype": "UNOFFICIAL",
-            "size": 2137735121,
-            "url": "https://drive.serverhive.in/drive/NNLzOz04vcuOuQMDbVkWLX6s/tapas/2026-05-19/axion-2.6-QUASIS-20260519-UNOFFICIAL-CORE-tapas.zip",
-            "version": "2.6"
+            "size": 2231023976,
+            "url": "https://sourceforge.net/projects/rexonsarchive/files/AxionOS/axion-2.7-PROXIMA_BETA-20260604-UNOFFICIAL-CORE-tapas.zip/download",
+            "version": "2.7"
         }
     ]
 }
+
