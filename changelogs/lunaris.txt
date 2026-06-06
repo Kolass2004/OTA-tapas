@@ -1,4 +1,59 @@
-LunarisAOSP 3.10 | Android 16 QPR 2 | Unofficial OTA
+LunarisAOSP 3.11 | Android 16 QPR 2 | Unofficial OTA
+
+
+======== June 06, 2026 Changelogs ========
+
+
+- New 25 clock styles with weather support
+- Improve app to home animation
+- Add skydrove color customisation for clock style
+- Add option to browse all clocks
+- Add initial split qs option
+- Switch to tricky store implementation
+- Advance monet customisation
+- Add back peek aod
+- Add color customisation support in lc info widget
+- Allow change lc info widget opacity
+- Add haptics in qs widget sliders
+- Add album art color override for lockscreen clock
+- Implement Vertical Brightness slider expanding
+- Add center alignment option for notification icons
+- Replace MSDL haptics with native haptic feedback on tiles
+- Improve bouncer fallback color
+- Notification and some other ui blur integrate
+- Fix battery percentage color issue when statusbar tint on
+- Add Statusbar brightness
+- Fix depth clock unlock delay
+- Add option in idle manager to trigger only when sleep mode on
+- Add recents task corner radius setting
+- Add notification badge counts 
+- Respect adaptive icon pack shapes
+- Improve custom recents animations
+- Switch to adaptive gesture pill window controls for freeform
+- Implement swipe-down-to-lock in Recents overview
+- Swipe up gesture split screen
+- Fix clock scale overflowing layout
+- Sandbox optimization
+- App lock optimization
+- Optimizing wallpaper zoom
+- Dynamic bar optimization
+- Update jemalloc and arm-optimized-routines
+- Many UI related bugfixes
+- Merge lineage changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ======== May 09, 2026 Changelogs ========
